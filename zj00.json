@@ -10,21 +10,41 @@
 	      	"group": "redirect",
 		    "channels": [{
 			"name": "live",
-			"urls": ["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]
+			"urls": ["proxy://do=live&type=txt&    ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvMjk5MDIvMEVSY3pJMGJfekIudHh0P3NpZ249RHMyWW43SjY4eUVpN2FaS0pKcHUtN01hck1xZUlCLXlKbEotZGRacDJBVSUzRCUzQTA="]
 		}]
 	}],
 
 	"sites": [
 	    {
 			"key": "Gitcafe",
-			"name": "️小纸条（于20220913更新）",
+			"name": "️小纸条（于20220914更新）",
 			"type": 3,
 			"api": "csp_Gitcafe",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
-		}, 
+		},
+		{
+			"key": "csp_XYQBiu_23yy",
+			"name": "23yy",
+			"type": 3,
+			"api": "csp_XYQBiu",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "http://刚刚.live/jar2/tvjs/23ys.json"
+		},
+		{
+			"key": "csp_biubiu_voflix",
+			"name": "voflix",
+			"type": 3,
+			"api": "csp_XBiubiu",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "http://刚刚.live/jar2/tvjs/voflix.json"
+		},		
 		{
 			"key": "Lezhu_spider",
 			"name": "乐猪影视",
@@ -36,33 +56,6 @@
 			"ext": ""
 		},
 		{
-			"key": "csp_LibVio",
-			"name": "LibVio",
-			"type": 3,
-			"api": "csp_Lib",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0
-		}, 
-//        {
-//			"key": "csp_Jianying",
-//          "name": "✂️简影(SP)",
-//          "type": 3,
-//            "api": "csp_JianYing",
-//            "searchable": 1,
-//          "quickSearch": 1,
-//        "filterable": 0,
-//      "ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjo1MzE4LCJDcmVhdGVkQXQiOiIyMDIyLTAzLTE4VDE5OjI0OjM2LjkzOCswODowMCIsIlVwZGF0ZWRBdCI6IjIwMjItMDktMDVUMTA6NTY6MjguMDAzKzA4OjAwIiwiRGVsZXRlZEF0IjpudWxsLCJ1c2VyX2VtYWlsIjoiMzExMTI0ODcwMEBxcS5jb20iLCJ1c2VyX25hbWUiOiIiLCJ1c2VyX3B3ZCI6IiIsInVzZXJfaWQiOiJiOGIwNmU2ZS1jZjkwLTQ1NDItYmVjMS05NDk4OGVhMDE4NGIiLCJ1c2VyX2Fuc3dlciI6IiIsImxvY2tfaXMiOiJGYWxzZSIsImlzX3R2IjoiIiwiaXNfYWRtaW4iOiJGYWxzZSIsInJlZ190aW1lIjoiMjAyMi0wOS0wNVQxMDo1NjoyOC4wMDIrMDg6MDAiLCJyZWdfa2V5IjoiOTg4MTUxMzUiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjYzMDI2NTAyLCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.m92i6og64WbwmCHYnI9CWL--Y1NwdMhvH4-Kn6FmPk8"},
-		{
-			"key": "csp_剧荒",
-			"name": "👿剧荒",
-			"type": 3,
-			"api": "csp_Juhuang",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-        {
 			"key": "csp_Auete",
 			"name": "Auete",
 			"type": 3,
@@ -90,6 +83,70 @@
 			"filterable": 0
 		},
 		{
+			"key": "csp_LibVio",
+			"name": "LibVio",
+			"type": 3,
+			"api": "csp_Lib",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0
+		}, 
+		{   "key":"csp_AppTT",
+		    "name":"🐰兔兔(SP)",
+		    "type":3,
+		    "api":"csp_AppTT",
+		    "searchable":1,
+		    "quickSearch":1,
+		    "filterable":1
+		},
+	    {
+			"key": "T4",
+		    "name": "🐞T4爬虫",
+		    "type": 4,
+		    "api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3",
+	    	"searchable": 1,
+		    "quickSearch": 1,
+		    "filterable": 1
+		},
+        {
+            "key":"聚合影视",
+			"name":"🌞聚合影视",
+			"type":3,
+			"api":"csp_XYQBiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://gitcode.net/qq_20335565/tvbox/-/raw/master/json/XYQBiu.json"
+		},
+		{
+			"key":"csp_biubiu_555电影",
+			"name":"🥒555电影(XB)",
+			"type":3,
+			"api":"csp_XBiubiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"http://刚刚.live/jar2/tvjs/555.json"
+		},
+//        {
+//			"key": "csp_Jianying",
+//          "name": "✂️简影(SP)",
+//          "type": 3,
+//            "api": "csp_JianYing",
+//            "searchable": 1,
+//          "quickSearch": 1,
+//        "filterable": 0,
+//      "ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjo1MzE4LCJDcmVhdGVkQXQiOiIyMDIyLTAzLTE4VDE5OjI0OjM2LjkzOCswODowMCIsIlVwZGF0ZWRBdCI6IjIwMjItMDktMDVUMTA6NTY6MjguMDAzKzA4OjAwIiwiRGVsZXRlZEF0IjpudWxsLCJ1c2VyX2VtYWlsIjoiMzExMTI0ODcwMEBxcS5jb20iLCJ1c2VyX25hbWUiOiIiLCJ1c2VyX3B3ZCI6IiIsInVzZXJfaWQiOiJiOGIwNmU2ZS1jZjkwLTQ1NDItYmVjMS05NDk4OGVhMDE4NGIiLCJ1c2VyX2Fuc3dlciI6IiIsImxvY2tfaXMiOiJGYWxzZSIsImlzX3R2IjoiIiwiaXNfYWRtaW4iOiJGYWxzZSIsInJlZ190aW1lIjoiMjAyMi0wOS0wNVQxMDo1NjoyOC4wMDIrMDg6MDAiLCJyZWdfa2V5IjoiOTg4MTUxMzUiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjYzMDI2NTAyLCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.m92i6og64WbwmCHYnI9CWL--Y1NwdMhvH4-Kn6FmPk8"},
+		{
+			"key": "csp_剧荒",
+			"name": "👿剧荒",
+			"type": 3,
+			"api": "csp_Juhuang",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
 			"key":"293视频",
 			"name":"293视频",
 			"type":3,
@@ -107,15 +164,6 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"http://121.205.88.194:7878/xgapp.php/v2/"
-		},
-        {
-			"key": "T4",
-		    "name": "🐞T4爬虫",
-		    "type": 4,
-		    "api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3",
-	    	"searchable": 1,
-		    "quickSearch": 1,
-		    "filterable": 1
 		},
 //        {
 //            "key":"VIP1",
@@ -217,15 +265,6 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
-		},
-		{
-			"key": "APPTT",
-			"name": "APPTT",
-			"api": "csp_AppTT",
-			"type": 3,
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1
 		}, 		
 	    {
 			"key": "360_spider",
@@ -466,16 +505,6 @@
 			"ext": "http://刚刚.live/jar2/tvjs/ysgc2.json"
 		},
 		{
-			"key":"csp_biubiu_555电影",
-			"name":"🥒555电影(XB)",
-			"type":3,
-			"api":"csp_XBiubiu",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"http://刚刚.live/jar2/tvjs/555.json"
-		},
-		{
 			"key": "诺讯资源",
 			"name": "🥉诺讯资源(官)",
 			"type": 1,
@@ -652,16 +681,7 @@
 			"filterable": 0,
 			"ext": "http://刚刚.live/jar2/tvjs/lingyun.json"
 		},
-		{
-			"key": "csp_XYQBiu_23yy",
-			"name": "23yy",
-			"type": 3,
-			"api": "csp_XYQBiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "http://刚刚.live/jar2/tvjs/23ys.json"
-		},
+
         {
 			"key": "csp_XYQBiu_wanneng",
 			"name": "wanneng",
@@ -683,16 +703,7 @@
 			"ext":"http://刚刚.live/jar2/tvjs/qiyouxp.json"
 			},
 //  {"key":"csp_biubiu_奇优影院ns","name":"奇优影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://刚刚.live/jar2/tvjs/qiyou.json"},
-		{
-			"key": "csp_biubiu_voflix",
-			"name": "voflix",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "http://刚刚.live/jar2/tvjs/voflix.json"
-		},
+		
 		{
 			"key": "csp_biubiu_cupfox",
 			"name": "茶杯狐",
@@ -985,7 +996,24 @@
     "quickSearch": 1,
     "filterable": 0
 },
-		{"key":"csp_bendi","name":"本地文件（仅能播放视频）","type":3,"api":"csp_LocalFile","searchable":1,"quickSearch":0,"filterable":1,"type_flag":1},
+		
+        {
+            "key": "哔滴影视",
+            "name": "哔滴影视(爬虫)",
+            "type": 3,
+            "api": "csp_Bdys01",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+		{"key":"csp_bendi",
+		"name":"本地文件（仅能播放视频）",
+		"type":3,
+		"api":"csp_LocalFile",
+		"searchable":1,
+		"quickSearch":0,
+		"filterable":1,
+		"type_flag":1},
 		
 		{
 			"key": "push_agent",
