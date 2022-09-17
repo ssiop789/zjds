@@ -98,7 +98,7 @@
 			"ext": "https://gitcode.net/qq_20335565/zjds/-/raw/master/json/voflix.json"
 		},	
 	    {
-			"key": "Lezhu_spider",
+			"key": "csp_Lezhu",
 			"name": "乐猪影视",
 			"api": "csp_Lezhu",
 			"type": 3,
