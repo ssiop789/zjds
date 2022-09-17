@@ -44,7 +44,7 @@
 		   "type": 3,
 		   "api": "csp_Bili",
 		   "searchable": 1,
-		   "quickSearch": 1,
+		   "quickSearch": 0,
 		   "filterable": 1,
 		   "ext": "https://gitcode.net/qq_20335565/zjds/-/raw/master/json/bili-heji.json"
 //http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/哔哩.json"
