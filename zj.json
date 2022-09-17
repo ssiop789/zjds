@@ -13,8 +13,7 @@
 			"urls": ["proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvMjk5MDIvMEVSY3pJMGJfekIudHh0P3NpZ249RHMyWW43SjY4eUVpN2FaS0pKcHUtN01hck1xZUlCLXlKbEotZGRacDJBVSUzRCUzQTA="]
 		}]
 	}],
-
-	"sites": [
+"sites": [
 	    {
 			"key": "Gitcafe",
 			"name": "小纸条（于20220916更新）",
@@ -23,7 +22,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-		"ext": "db18ac005cb34a5e91e8e26a0a828573"
+		    "ext": "db18ac005cb34a5e91e8e26a0a828573"
 //"ext": "dcbc975ad0684eb5a498ecd1836272e6"
 //"ext": "3781469b13074e4cac1e0e7113e4fa20"
 //"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
@@ -60,7 +59,7 @@
 			"filterable": 1,
 			"ext": "https://gitcode.net/qq_20335565/zjds/-/raw/master/json/bili-xiqu.json"
 		},
-				{
+		{
 			"key":"csp_77",
 		    "name":"77影院(SP)",
 		    "type":3,
@@ -161,15 +160,15 @@
 		    "quickSearch": 1,
 		    "filterable": 1
 		},
-//        {
+//      {
 //			"key": "csp_Jianying",
 //          "name": "✂️简影(SP)",
 //          "type": 3,
-//            "api": "csp_JianYing",
-//            "searchable": 1,
+//          "api": "csp_JianYing",
+//          "searchable": 1,
 //          "quickSearch": 1,
-//        "filterable": 0,
-//      "ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjo1MzE4LCJDcmVhdGVkQXQiOiIyMDIyLTAzLTE4VDE5OjI0OjM2LjkzOCswODowMCIsIlVwZGF0ZWRBdCI6IjIwMjItMDktMDVUMTA6NTY6MjguMDAzKzA4OjAwIiwiRGVsZXRlZEF0IjpudWxsLCJ1c2VyX2VtYWlsIjoiMzExMTI0ODcwMEBxcS5jb20iLCJ1c2VyX25hbWUiOiIiLCJ1c2VyX3B3ZCI6IiIsInVzZXJfaWQiOiJiOGIwNmU2ZS1jZjkwLTQ1NDItYmVjMS05NDk4OGVhMDE4NGIiLCJ1c2VyX2Fuc3dlciI6IiIsImxvY2tfaXMiOiJGYWxzZSIsImlzX3R2IjoiIiwiaXNfYWRtaW4iOiJGYWxzZSIsInJlZ190aW1lIjoiMjAyMi0wOS0wNVQxMDo1NjoyOC4wMDIrMDg6MDAiLCJyZWdfa2V5IjoiOTg4MTUxMzUiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjYzMDI2NTAyLCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.m92i6og64WbwmCHYnI9CWL--Y1NwdMhvH4-Kn6FmPk8"},
+//          "filterable": 0,
+//          "ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjo1MzE4LCJDcmVhdGVkQXQiOiIyMDIyLTAzLTE4VDE5OjI0OjM2LjkzOCswODowMCIsIlVwZGF0ZWRBdCI6IjIwMjItMDktMDVUMTA6NTY6MjguMDAzKzA4OjAwIiwiRGVsZXRlZEF0IjpudWxsLCJ1c2VyX2VtYWlsIjoiMzExMTI0ODcwMEBxcS5jb20iLCJ1c2VyX25hbWUiOiIiLCJ1c2VyX3B3ZCI6IiIsInVzZXJfaWQiOiJiOGIwNmU2ZS1jZjkwLTQ1NDItYmVjMS05NDk4OGVhMDE4NGIiLCJ1c2VyX2Fuc3dlciI6IiIsImxvY2tfaXMiOiJGYWxzZSIsImlzX3R2IjoiIiwiaXNfYWRtaW4iOiJGYWxzZSIsInJlZ190aW1lIjoiMjAyMi0wOS0wNVQxMDo1NjoyOC4wMDIrMDg6MDAiLCJyZWdfa2V5IjoiOTg4MTUxMzUiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjYzMDI2NTAyLCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.m92i6og64WbwmCHYnI9CWL--Y1NwdMhvH4-Kn6FmPk8"},
 		{
 			"key": "csp_剧荒",
 			"name": "剧荒",
@@ -208,25 +207,25 @@
 			"filterable": 0,
 			"ext": "https://gitcode.net/qq_20335565/zjds/-/raw/master/json/23ys.json"
 		},
-//        {
-//            "key":"VIP1",
-//            "name": "1(T4)",
-//            "type":4,
-//            "api":"http://vod.kooo.eu.org/t4/vip110002",
-//            "searchable":1,
-//            "quickSearch":1,
-//            "filterable":1
-//        },
-//        {
-//            "key":"VIP2",
-//            "name": "2(T4)",
-//            "type":4,
-//            "api":"https://vod.kooo.eu.org/t4/vip11a0c4",
-//            "searchable":1,
-//            "quickSearch":1,
-//            "filterable":1
-//        },
-//        {
+//      {
+//          "key":"VIP1",
+//          "name": "1(T4)",
+//          "type":4,
+//          "api":"http://vod.kooo.eu.org/t4/vip110002",
+//          "searchable":1,
+//          "quickSearch":1,
+//          "filterable":1
+//      },
+//      {
+//          "key":"VIP2",
+//          "name": "2(T4)",
+//          "type":4,
+//          "api":"https://vod.kooo.eu.org/t4/vip11a0c4",
+//          "searchable":1,
+//          "quickSearch":1,
+//          "filterable":1
+//      },
+//      {
 //            "key":"VIP3",
 //            "name": "4(T4)",
 //            "type":4,
