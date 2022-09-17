@@ -96,8 +96,17 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://gitcode.net/qq_20335565/zjds/-/raw/master/json/voflix.json"
-		},		
+		},
 		{
+            "key": "dr_乐猪TV",
+            "name": "乐猪TV(道长)",
+            "type": 1,
+            "api": "http://catvod.fun:5705/vod?rule=乐猪TV",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },		
+//		{
 			"key": "Lezhu_spider",
 			"name": "乐猪影视",
 			"api": "csp_Lezhu",
