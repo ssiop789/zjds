@@ -38,6 +38,16 @@
 			"filterable":0,
 			"ext":"https://gitcode.net/qq_20335565/zjds/-/raw/master/json/XYQBiu.json"
 		},
+		{
+            "key":"聚合影视",
+			"name":"聚合影视",
+			"type":3,
+			"api":"csp_XYQBiu",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"https://gitcode.net/qq_20335565/zjds/-/raw/master/json/XYQBiu.json"
+		},
         {
 		   "key": "Bili",
 		   "name": "哔哩套餐〔SP〕",
