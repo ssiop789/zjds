@@ -16,7 +16,7 @@
 "sites": [
 	    {
 			"key": "Gitcafe",
-			"name": "小纸条（于20220916更新）",
+			"name": "小纸条（于20220918更新）",
 			"type": 3,
 			"api": "csp_Gitcafe",
 			"searchable": 1,
