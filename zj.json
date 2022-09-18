@@ -43,7 +43,7 @@
 		   "name": "哔哩套餐〔SP〕",
 		   "type": 3,
 		   "api": "csp_Bili",
-		   "searchable": 1,
+		   "searchable": 0,
 		   "quickSearch": 0,
 		   "filterable": 1,
 		   "ext": "https://gitcode.net/qq_20335565/zjds/-/raw/master/json/bili-heji.json"
