@@ -984,34 +984,33 @@
             "quickSearch": 1,
             "filterable": 0
         },
-{
-    "key":"dr_莫扎兔",
-    "name":"莫扎兔",
-    "type":1,
-    "api":"http://cms.nokia.press/vod?rule=莫扎兔",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 0
-},
-{
-    "key":"dr_鸭奈飞",
-    "name":"鸭奈飞",
-    "type":1,
-    "api":"http://cms.nokia.press/vod?rule=鸭奈飞",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 0
-},
-{
-    "key":"dr_蓝光影院",
-    "name":"蓝光影院",
-    "type":1,
-    "api":"http://cms.nokia.press/vod?rule=蓝光影院",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 0
-},
-		
+        {
+            "key":"dr_莫扎兔",
+            "name":"莫扎兔",
+            "type":1,
+            "api":"http://cms.nokia.press/vod?rule=莫扎兔",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key":"dr_鸭奈飞",
+            "name":"鸭奈飞",
+            "type":1,
+            "api":"http://cms.nokia.press/vod?rule=鸭奈飞",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key":"dr_蓝光影院",
+            "name":"蓝光影院",
+            "type":1,
+            "api":"http://cms.nokia.press/vod?rule=蓝光影院",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
         {
             "key": "哔滴影视",
             "name": "哔滴影视(爬虫)",
