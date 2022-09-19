@@ -10,8 +10,8 @@
 	      	"group": "redirect",
 		    "channels": [{
 			"name": "live",
-			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9xcV8yNjg5ODIzMS9UVkJveC8tL3Jhdy9tYWluL2xpdmUvemIudHh0"]
-//aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvMjk5MDIvMEVSY3pJMGJfekIudHh0P3NpZ249RHMyWW43SjY4eUVpN2FaS0pKcHUtN01hck1xZUlCLXlKbEotZGRacDJBVSUzRCUzQTA=
+			"urls": ["proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvMjk5MDIvMEVSY3pJMGJfekIudHh0P3NpZ249RHMyWW43SjY4eUVpN2FaS0pKcHUtN01hck1xZUlCLXlKbEotZGRacDJBVSUzRCUzQTA="]
+
 		}]
 	}],
 "sites": [
