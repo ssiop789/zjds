@@ -261,7 +261,7 @@
 //            "quickSearch":1,
 //            "filterable":1
 //        },
-//        {
+//       {
 //            "key":"VIP7",
 //            "name": "64(T4)",
 //            "type":4,
@@ -269,8 +269,8 @@
 //            "searchable":1,
 //            "quickSearch":1,
 //            "filterable":1
-//        },
-//        {
+//      },
+//      {
 //            "key":"VIP8",
 //            "name": "128(T4)",
 //            "type":4,
@@ -278,7 +278,7 @@
 //            "searchable":1,
 //            "quickSearch":1,
 //            "filterable":1
-//        },
+//      },
         {
 			"key":"csp_Alist",
 		    "name":"Alist合集",
@@ -297,7 +297,6 @@
 			"quickSearch": 1,
 			"filterable": 1
 		}, 		
-  
 		{
             "key": "dr_大米星球",
             "name": "大米星球(DR)",
@@ -390,7 +389,6 @@
 			"filterable": 1,
 			"ext": "db18ac005cb34a5e91e8e26a0a828573"
 		}, 
-	
 //		{"key":"csp_Wmkk","name":"完美看看（SP）","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 //		{"key":"csp_DiDuan","name":"低端影视（SP）","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
        	{
@@ -702,7 +700,6 @@
 			"filterable": 0,
 			"ext": "https://gitcode.net/qq_20335565/zjds/-/raw/master/json/lingyun.json"
 		},
-
         {
 			"key": "csp_XYQBiu_wanneng",
 			"name": "wanneng",
@@ -722,9 +719,8 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext":"https://gitcode.net/qq_20335565/zjds/-/raw/master/json/qiyouxp.json"
-			},
+		},
 //  {"key":"csp_biubiu_奇优影院ns","name":"奇优影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/qq_20335565/zjds/-/raw/master/json/qiyou.json"},
-		
 		{
 			"key": "csp_biubiu_cupfox",
 			"name": "茶杯狐",
@@ -765,7 +761,6 @@
 			"filterable":0,
 			"ext":"https://gitcode.net/qq_20335565/zjds/-/raw/master/json/jipin.json"
 		},
-		
 		{
 			"key":"多多",
 			"name":"多多（T1有广告）",
@@ -775,7 +770,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"categories":["国产剧","日韩剧","港台剧","欧美剧","综艺","动漫","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","剧情片" ]},
-		 {
+		{
 			"key": "金鹰资源",
 			"name": "金鹰资源（T1有广告）",
 			"type": 1,
@@ -827,7 +822,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-		"ext":"http://www.cccvvv.top/api.php/iptv/vod/"
+		    "ext":"http://www.cccvvv.top/api.php/iptv/vod/"
 		},
 		{
 			"key":"xincheng",
@@ -909,7 +904,6 @@
 			"filterable": 0,
 			"ext": "https://gitcode.net/qq_20335565/zjds/-/raw/master/json/dm84.json"
 		},
-		
 //		{"key":"演唱会","name":"演唱会（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/演唱会.php"},
 //		{"key":"戏曲","name":"戏曲（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/戏曲.php"},
 		{
@@ -932,7 +926,6 @@
 			"filterable": 0,
 			"ext": "https://gitcode.net/qq_20335565/zjds/-/raw/master/json/tingbook.json"
 		},
-		
 		{
 			"key": "csp_XYQBiu_dsp",
 			"name": "短视频通道（XYQ）",
