@@ -1,7 +1,7 @@
 //无公众号，无公众号，无公众号,不引流，我是纯小白~啥也不懂，所有东西都是扒拉大佬的，只是为小白提供一个方便，希望大哥们可以高抬贵嘴~
 //感谢各位隐姓埋名的大佬分享~
 //Q群：493192284（如果老哥们有分享精神，欢迎进群，那个，多嘴一句，群里都是小白，这个配置本质是给纯小白用的，仅限于能正常使用，更新维护都不及时，请见谅，没有分享精神的大哥就不要加群了，别进去秀了自己的好东西，又不愿意分享，让我们眼巴巴的看着，怪可怜人的。。。）
-{
+       {
             "spider":"https://gitcode.net/qq_20335565/zjds/-/raw/master/jar/0918.jar",
 	//jar包嫖自TG群
 	        "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
@@ -14,7 +14,7 @@
 
 		}]
 	}],
-"sites": [
+"sites":[
 	    {
 			"key": "Gitcafe",
 			"name": "小纸条（于20220918更新）",
@@ -541,7 +541,6 @@
 			"quickSearch": 1
 		},
 //		{"key":"csp_xpath_网络搜集库88","name":"球迷专场一","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/qq_20335565/zjds/-/raw/master/json/88kanqiu.json"},
-
 		{
 			"key": "csp_xpath_网络搜集库qiumi",
 			"name": "球迷通道（XP）",
@@ -1041,12 +1040,12 @@
 			"filterable": 0,
 			"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
 		}
-	],
-
-	"parses": [{
-		"name": "解析聚合",
-		"type": 3,
-		"url": "Demo"
+	    ],
+"parses": [
+	    {
+		    "name": "解析聚合",
+	    	"type": 3,
+		    "url": "Demo"
 	}, {
 		"name": "Json并发",
 		"type": 2,
