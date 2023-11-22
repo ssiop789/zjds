@@ -189,6 +189,10 @@ CETV-4,https://cntv.lat/tv/zb.php?auth=231122&id=cetv4
 江苏测试1,http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 浙江测试,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 
+🎣︎  钓鱼台#genre#
+
+四海钓鱼,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw1594642123_-1739463849/wd_r4/peoplecn/shdiaoyu/1200/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073744&ContentId=265667494&timezone=UTC&mtv_session=62fe26ea17a6225b620ad6528d069bad&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=1dd468b7cedccd815604e427c9d0d8f7&咪咕
+
 ⛵  港•澳•台,#genre#
 
 凤凰中文,https://pi.0472.org/tv/fhzw.php?auth=231122
