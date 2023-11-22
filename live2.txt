@@ -39,6 +39,27 @@ CCTV-16,https://cntv.lat/tv/zb.php?auth=231122&id=cctv16
 CCTV-17,https://cntv.lat/tv/zb.php?auth=231122&id=cctv17
 CCTV-5+,https://cntv.lat/tv/zb.php?auth=231122&id=cctv5p
 
+CCTV1,https://live.goodiptv.club/api/cqyx.php?id=cctv1HD
+CCTV2,https://live.goodiptv.club/api/cqyx.php?id=cctv2HD
+CCTV3,https://live.goodiptv.club/api/cqyx.php?id=cctv3HD
+CCTV4,https://live.goodiptv.club/api/cqyx.php?id=cctv4HD
+CCTV5,https://live.goodiptv.club/api/cqyx.php?id=cctv5HD
+CCTV6,https://live.goodiptv.club/api/cqyx.php?id=cctv6HD
+CCTV7,https://live.goodiptv.club/api/cqyx.php?id=cctv7HD
+CCTV8,https://live.goodiptv.club/api/cqyx.php?id=cctv8HD
+CCTV9,https://live.goodiptv.club/api/cqyx.php?id=cctv9HD
+CCTV10,https://live.goodiptv.club/api/cqyx.php?id=cctv10HD
+CCTV11,https://live.goodiptv.club/api/cqyx.php?id=cctv11HD
+CCTV12,https://live.goodiptv.club/api/cqyx.php?id=cctv12HD
+CCTV13,https://live.goodiptv.club/api/cqyx.php?id=cctv13HD
+CCTV14,https://live.goodiptv.club/api/cqyx.php?id=cctv14HD
+CCTV15,https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
+CCTV16,https://live.goodiptv.club/api/cqyx.php?id=cctv16HD
+CCTV17,https://live.goodiptv.club/api/cqyx.php?id=cctv17HD
+CCTV5+,https://live.goodiptv.club/api/cqyx.php?id=cctv5SportHD
+CCTV4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
+CCTV16 4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
+
 CCTV1,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
 CCTV2,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203603.m3u8
 CCTV3,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203803.m3u8
