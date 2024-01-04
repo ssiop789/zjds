@@ -183,7 +183,7 @@
 {"name": "m3u8","type": 0,"url": "https://jx.m3u8.tv/jiexi/?url="},
 {"name": "777","type": 0,"url": "https://jx.777jiexi.com/player/?url="},
 {"name":"芒高/奇异","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qiyi","iqiyi","爱奇艺","奇艺","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","imgo","芒果","sohu","搜狐","xigua","fun","leshi","风行"],"header": {"User-Agent": "okhttp/4.1.0"}}},
-{"name":"战狼","type":0,"url":"https://jx.zhanlangbu.com/?url=","ext":{"flag":["qiyi","iqiyi","爱奇艺","奇艺","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","imgo","芒果","sohu","搜狐","xigua","fun","leshi","风行"],"header": {"User-Agent": "okhttp/4.1.0"}},
+{"name":"战狼","type":0,"url":"https://jx.zhanlangbu.com/?url=","ext":{"flag":["qiyi","iqiyi","爱奇艺","奇艺","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","imgo","芒果","sohu","搜狐","xigua","fun","leshi","风行"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 
 {"name":"测试","type":1,"url":"https://json.xn--9kq078cdn3a.cc/api/?key=3a307b18026646ddc3fb968aaf484598&url="},
 {"name":"1号线","type":1,"url":"http://www.pandown.pro/app/tkys/tkysjx.php?url="},		
