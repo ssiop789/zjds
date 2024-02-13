@@ -19,13 +19,13 @@
 "logo":"https://epg.112114.xyz/logo/{name}.png"}],
 
 "sites":[
-{"key":"豆豆","name":"🅱豆瓣┃20240206","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://pan.shangui.cc/f/2D48tx/fan-0912.txt;md5;f20b74480c058b1ff6236601f92d65a8"},
+{"key":"豆豆","name":"🅱豆瓣┃20240213","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://pan.shangui.cc/f/2D48tx/fan-0912.txt;md5;f20b74480c058b1ff6236601f92d65a8"},
 {"key":"火狐","name":"🦊茶杯狐 ┃资源","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://d.kstore.space/download/5393/jar/云星日记-0104.jar;md5;8c6fadafee20b3780e602f8f52c7cc92",
 "categories":["欧美剧","科幻片","恐怖片","战争片","动作片","犯罪片","喜剧片","爱情片","剧情片","冒险片","记录片","韩剧","香港剧","台湾剧","内地剧","日剧","马泰剧","体育赛事","综艺","动画片","中国动漫","日本动漫","欧美动漫"]},
 {"key":"Gitcafe1","name":"🗒小纸条|纯影视","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd","jar":"https://d.kstore.space/download/5393/jar/荷城茶秀-0104.jar;md5;fc692ca5f9fa2dfa443f96c37edaa81a"},
 
-
-{"key":"drpy_js_网飞.TV","name":"💎网飞TV┃JS","type":3,"api":"https://xhdwc.tk/lib/drpy2.min.js","ext":"https://xhdwc.tk/js/网飞.TV.js"},
+{"key":"drpy_js_网飞.TV","name":"💎网飞TV┃JS","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/网飞.TV.js"},
+//{"key":"drpy_js_网飞.TV","name":"💎网飞TV┃JS","type":3,"api":"https://xhdwc.tk/lib/drpy2.min.js","ext":"https://xhdwc.tk/js/网飞.TV.js"},
 
 //{"key":"drpy_js_小纸条","name":"🆕小纸条┃JS","type":3,"api":"https://xhdwc.tk/js/小纸条一级推送测试.js","ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"},
 {"key":"csp_XYQHiker_臭蛋蛋影视","name":"🐣臭蛋蛋影视┃(HM2)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.space/download/5393/js/臭蛋蛋影视.json","jar":"https://d.kstore.space/download/5393/jar/XYQ-0206.jar;md5;694a5575722bb086b6fde7a23a68a1d8"},
