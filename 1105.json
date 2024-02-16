@@ -19,7 +19,7 @@
 "logo":"https://epg.112114.xyz/logo/{name}.png"}],
 
 "sites":[
-{"key":"豆豆","name":"🅱豆瓣┃20240216","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://pan.shangui.cc/f/2D48tx/fan-0912.txt;md5;f20b74480c058b1ff6236601f92d65a8"},
+{"key":"豆豆","name":"🅱豆瓣┃20240217","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://pan.shangui.cc/f/2D48tx/fan-0912.txt;md5;f20b74480c058b1ff6236601f92d65a8"},
 {"key":"火狐","name":"🦊茶杯狐 ┃资源","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://d.kstore.space/download/5393/jar/云星日记-0104.jar;md5;8c6fadafee20b3780e602f8f52c7cc92",
 "categories":["欧美剧","科幻片","恐怖片","战争片","动作片","犯罪片","喜剧片","爱情片","剧情片","冒险片","记录片","韩剧","香港剧","台湾剧","内地剧","日剧","马泰剧","体育赛事","综艺","动画片","中国动漫","日本动漫","欧美动漫"]},
 {"key":"Gitcafe1","name":"🗒小纸条|纯影视","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd","jar":"https://d.kstore.space/download/5393/jar/荷城茶秀-0104.jar;md5;fc692ca5f9fa2dfa443f96c37edaa81a"},
