@@ -19,7 +19,7 @@
 "logo":"https://epg.112114.xyz/logo/{name}.png"}],
 
 "sites":[
-{"key":"豆豆","name":"🅱豆瓣┃20240216","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://pan.shangui.cc/f/2D48tx/fan-0912.txt;md5;f20b74480c058b1ff6236601f92d65a8"},
+{"key":"豆豆","name":"🅱豆瓣┃20240222","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://pan.shangui.cc/f/2D48tx/fan-0912.txt;md5;f20b74480c058b1ff6236601f92d65a8"},
 {"key":"火狐","name":"🦊茶杯狐 ┃资源","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://d.kstore.space/download/5393/jar/云星日记-0104.jar;md5;8c6fadafee20b3780e602f8f52c7cc92",
 "categories":["欧美剧","科幻片","恐怖片","战争片","动作片","犯罪片","喜剧片","爱情片","剧情片","冒险片","记录片","韩剧","香港剧","台湾剧","内地剧","日剧","马泰剧","体育赛事","综艺","动画片","中国动漫","日本动漫","欧美动漫"]},
 {"key":"Gitcafe1","name":"🗒小纸条|纯影视","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd","jar":"https://d.kstore.space/download/5393/jar/荷城茶秀-0104.jar;md5;fc692ca5f9fa2dfa443f96c37edaa81a"},
@@ -66,6 +66,11 @@
 //{"key":"csp_Ikanbot","name":"👾Ikanbot┃SP","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://pan.shangui.cc/f/PnpLiK/XYQ-0725.jar;md5;431809c4e972554e50c3ffeddf177344"},
 
 {"key": "玩我哥哥","name":"🎦玩我|哥哥","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.space/download/5393/js/玩我哥哥.json;http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹","jar": "https://d.kstore.space/download/5393/jar/玩我哥哥-0205.jar"},
+
+{"key": "Buleitv","name": "💯布蕾┃TV","type": 3,"api": "csp_Buleitv","searchable": 1,"changeable": 0,"jar":"https://d.kstore.space/download/5393/jar/追忆影探布蕾带自动追踪.jar"},
+{"key": "Yingtantv","name": "💯影探┃TV","type": 3,"api": "csp_Yingtantv2","searchable": 1,"changeable": 0,"jar":"https://d.kstore.space/download/5393/jar/追忆影探布蕾带自动追踪.jar"},
+{"key": "Zhuiyitv","name": "💯追忆┃TV","type": 3,"api": "csp_Zhuiyitv","searchable": 1,"changeable": 0,"jar":"https://d.kstore.space/download/5393/jar/追忆影探布蕾带自动追踪.jar"},
+
 {"key":"Czsapp","name":"📔厂长┃SP","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://czz9.com/","jar":"https://pan.shangui.cc/f/6kg2up/fan-1204.jar;md5;be6121b5c37471b191114027123912d2"},
 //{"key":"csp_Czsapp","name":"📔厂长┃SP","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://pan.shangui.cc/f/NlqSj/fan-0510.jar;md5;528559dc26fc8138875e8bf32f670cac"},
 {"key":"csp_XYQHiker_COKEMV影院","name":"📕Cokemv┃XYQH","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pan.shangui.cc/f/KPnlI6/COKEMV影院.json","jar":"https://pan.shangui.cc/f/NaYNfj/custom_spider.jar;md5;316660b0adb299c1dc63587579a3522e"},
