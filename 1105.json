@@ -175,7 +175,7 @@
 {"key":"csp_xp_mozhatu","name":"💢莫扎兔","type":3,"api":"csp_XPath3","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xn--sss604efuw.ml/tvb/xp/mozhatu.json"},
 {"key":"csp_xp_yingba","name":"💢电影吧","type":3,"api":"csp_XPath3","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xn--sss604efuw.ml/tvb/xp/yingba.json"}
 ],
-//解析设置
+
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Web解析聚合","type":3,"url":"Web"},
