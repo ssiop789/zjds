@@ -38,7 +38,10 @@
 
 //{"key":"褰辨帰VIP","name":"🕵️┃侦探┃SP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/","jar":"https://pan.shangui.cc/f/JzDwIK/pandaQ231115.jar;md5;cb2a84ff515a9d54fc7590bb56d62f04"},
 {"key":"玩偶哥哥","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹","jar":"https://d.kstore.space/download/5393/jar/fan-0205.txt;md5;c3e8c08b4cd6f7fd0f868ea48dd42cb2"},
-{"key":"csp_星辰","name":"🎦星辰┃SP","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.space/download/5393/js/xcys.json","jar":"https://d.kstore.space/download/5393/jar/天天开心-0319.jar;md5;e95518f9d16d27d9aa696f3a4e7bf418"},
+
+{"key":"原创","name":"☀原创┃无广","type":3,"api":"csp_YCyz","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://d.kstore.space/download/5393/jar/fan-0319.txt;md5;dd909349c70fe92e82470eba611b7094"},
+
+//{"key":"csp_星辰","name":"🎦星辰┃SP","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.space/download/5393/js/xcys.json","jar":"https://d.kstore.space/download/5393/jar/天天开心-0319.jar;md5;e95518f9d16d27d9aa696f3a4e7bf418"},
 //{"key":"js_mogu","name":"🍄┃蘑菇┃JS","type":3,"api":"https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/duomv/xduo/-/raw/main/libs/蘑菇.js"},
 
 {"key":"csp_Bili","name":"🅱️广场舞+戏曲(哔哩源)","type":3,"api":"csp_Bili","playerType":2,"searchable":1,"quickSearch": 0,"filterable": 0,"ext":"https://d.kstore.space/download/5393/js/哔哩哔哩.json","jar":"https://d.kstore.space/download/5393/jar/fan-0205.txt;md5;c3e8c08b4cd6f7fd0f868ea48dd42cb2"},
